@@ -1,5 +1,5 @@
 ![logo](https://i.imgur.com/1kiHYwD.png)
-<p align="center"></p>
+<p align="center">A lightweight server management utility. </p>
 
 ## Installation
 
